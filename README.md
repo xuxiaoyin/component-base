@@ -1,2 +1,2 @@
 # component-base
-vue 组件传值基础
+vue 父子组件传值基础
